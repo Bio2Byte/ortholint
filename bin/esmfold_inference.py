@@ -1,3 +1,7 @@
+################################################################################
+######### from ESM repo at https://github.com/facebookresearch/esm/blob/main/scripts
+################################################################################
+
 from pathlib import Path
 import sys,os
 import argparse
