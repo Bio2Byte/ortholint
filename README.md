@@ -3,7 +3,7 @@ A nextflow pipeline that creates (or takes) orthologous groups from gene-called 
 
 ## vision
 
-![Vision of future ortholint workflow!](schemes/ortholint_vision.png "Vision of future ortholint workflow")
+![Vision of future ortholint workflow!](ortholint_vision.png "Vision of future ortholint workflow")
 
 ## setup
 You have to define your own dependency profile in *nextflow.config* unless you have access to the VUB-HPC. Use docker/apptainer to make your life easier. 
